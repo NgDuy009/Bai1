@@ -57,7 +57,6 @@ $email = "tzy425@gmail.com";
 </head>
 <body>
 
-    <!-- 2. Hiển thị thông tin trong một card HTML -->
     <div class="student-card">
         <h2>Thông Tin Sinh Viên</h2>
         <hr>
